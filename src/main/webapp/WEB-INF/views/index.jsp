@@ -7,7 +7,8 @@
     <h1>${msg}</h1>
     <h1>Hi, there (updated by chocola)</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
-    <h3>Version: 3.3.3</h3>
+    <h3>Version: 3.4.0</h3>
     <h4>modified at 25-02-22T01:01:30</h4>
+    <h4>add cicd with k8s</h4>
 </body>
 </html>
